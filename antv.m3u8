@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://159.69.45.173:9999/smt.php?id=Antv
+https://streaming.indihometv.com/dass/130/antv/manifest_wuseetv.mpd?enc=_vnbRnTDKocc1TyN14lmoQ&exp=1774362366&encp=OR_1BoJS1Or73Lgg7YfusA&expp=1774372866
